@@ -6,7 +6,7 @@ Technologies used: Nuxt 3 (Modules: Nuxt Apollo, Nuxt Image, Nuxt Tailwind), Dai
 
 API used : [rickandmortyapi.com](https://rickandmortyapi.com)
 
-Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
+Live [preview](https://rick-and-morty-two-hazel.vercel.app)
 
 ## Setup
 
